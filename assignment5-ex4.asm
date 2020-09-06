@@ -1,5 +1,7 @@
 # Luke Phillips - J00624776
 
+# EDIT NOTE- The code was unchanged, I just added this comment to test editing the file
+
 # Program is a game of rock, paper, scissors
 # Player chooses rock, paper, or scissors
 # Program displays game result (win, lose, draw)
