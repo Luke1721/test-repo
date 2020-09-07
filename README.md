@@ -1,3 +1,3 @@
 # test-repo
 
-This text is probably readable
+This text is likely readable
